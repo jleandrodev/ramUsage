@@ -14,9 +14,9 @@
    * [Sobre](#verificador-de-uso-de-memória-ram)
    * [Tópicos](#-tópicos)
    * [Pré Requisitos](#pré-requisitos)
-   * [Rodando o servidor](#rodando-o-servidor)
+   * [Rodando o servidor](#-rodando-o-servidor)
    * [Demonstração da Aplicação](#-demonstração-da-aplicação)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias](#-tecnologias)
 <!--te-->
 
 &nbsp;
