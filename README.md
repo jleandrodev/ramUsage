@@ -1,26 +1,23 @@
+
 # Verificador de uso de memória RAM
 &nbsp;
-<h4 align="center"> 
-	🚧  Verificador de Ram 🚀 Concluído!  🚧
-</h4>
 
-<p align='center'>Aplicação fornece dados sobre o uso de memória RAM atualizados a cada segundo.</p>
-
+<p>Aplicação fornece dados sobre o uso de memória RAM atualizados a cada segundo.</p>
 &nbsp;
 
-## 🏁 Tabela de conteúdos 
+## 🏁 Tópicos
 
 <!--ts-->
    * [Sobre](#verificador-de-uso-de-memória-ram)
-   * [Tabela de Conteudo](#-tabela-de-conteúdos)
-   * [Pré Requisitos](#-pré-requisitos)
-   * [Rodando o servidor](#-rodando-o-servidor)
+   * [Tópicos](#-tópicos)
+   * [Pré Requisitos](#pré-requisitos)
+   * [Rodando o servidor](#rodando-o-servidor)
    * [Demonstração da Aplicação](#-demonstração-da-aplicação)
-   * [Tecnologias](#-tecnologias)
+   * [Tecnologias](#tecnologias)
 <!--te-->
 
 
-### 💻 Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -44,7 +41,12 @@ $ npm start
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-### 🚀 Demonstração da aplicação
+### 🚀 Demonstração da Aplicação
+
+![Acessando a rota '/':](./assets/home.png)
+![Acessando a rota '/stats':](./assets/response.png)
+![Acessando qualquer outra rota:](./assets/404.png)
+![AVisualização pelo terminal do VS Code:](./assets/terminal.png)
 
 ### 🛠 Tecnologias
 
